@@ -1,0 +1,13 @@
+{
+  "template": "git+ssh://git@github.com/justin-yan/templates-cruft",
+  "commit": "20d71192d82b1d8850077cc266a2e409e1e42b4c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "package_name": "prefixid",
+      "github_username": "@justin-yan",
+      "_template": "git+ssh://git@github.com/justin-yan/templates-cruft"
+    }
+  },
+  "directory": "packages-public/python-standard"
+}
