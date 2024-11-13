@@ -8,7 +8,7 @@
       "github_username": "@justin-yan",
       "copyright_start_year": "2023",
       "copyright_full_name": "Justin Yan",
-      "_template": "git+ssh://git@github.com/justin-yan/templates-cruft"
+      "_template": "https://github.com/justin-yan/templates-cruft"
     }
   },
   "directory": "packages-public/python-standard"
